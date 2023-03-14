@@ -1,7 +1,7 @@
 
 import Link from 'next/link';
 
-import { MainLayout } from '@/components/layout/MainLayout';
+import { MainLayout } from '../../components/layout/MainLayout';
 
 
 export default function ContactPage() {
